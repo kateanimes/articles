@@ -1,0 +1,53 @@
+
+* {
+	padding: 0;
+	margin: 0;
+	text-decoration: none;
+	font-family: sans-serif;
+	color: white;
+}
+
+body {
+	background-color: black;
+
+}
+
+
+.logo {
+	color: white;
+	font-size: 250%;
+	margin-left: 1%;
+	margin-top: 1%;
+	margin-bottom: 20px;
+}
+
+.menu_left {
+	
+	margin-left: 0.5%;
+	font-size: 100%;
+	border: 2px solid #fff;
+	width: 250px;
+	height: 500px;
+	text-align: left;
+	padding-left: 25px;
+	padding-top: 20px;
+
+	}
+
+#list_1 {
+	display: none;
+	cursor: pointer;
+}
+
+li:hover {
+	color: #3CB371;
+	cursor: pointer;
+}
+
+#list_2 {
+display: none;
+}
+
+#list_3 {
+display: none;
+}
